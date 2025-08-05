@@ -3,4 +3,8 @@ A Weather Station with the Raspberry Pi Pico W and a BMP280 temperature and pres
 
 ## Pinout
 This is the pinout for the RPI W and BMP280 Sensor:
-![alt text](https://github.com/ktiminis/Weather-Station-with-Raspberry-Pi-Pico-W/blob/main/RPI%20W%20BMP28%20PIN%20LAYOUT.drawio.png)
+![PINOUT IMAGE](https://github.com/ktiminis/Weather-Station-with-Raspberry-Pi-Pico-W/blob/main/RPI%20W%20BMP28%20PIN%20LAYOUT.drawio.png)
+![RPI IMAGE](https://github.com/ktiminis/Weather-Station-with-Raspberry-Pi-Pico-W/blob/main/RPI%20Image.jpg)
+
+
+
